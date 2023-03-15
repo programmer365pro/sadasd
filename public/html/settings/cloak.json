@@ -1,0 +1,30 @@
+[
+    {
+       "title":"Desmos | Graphing Calculator",
+       "favicon":"https://www.desmos.com/assets/img/apps/graphing/favicon.ico"
+    },
+    {
+      "title":"Your Sets | Quizlet",
+      "favicon":"https://quizlet.com/favicon.ico"
+    },
+    {
+      "title":"Enter Game PIN - Kahoot!",
+      "favicon":"https://kahoot.it/favicon.ico"
+    },
+    {
+       "title":"Khan Academy | Free Online Courses, Lessons & Practice",
+       "favicon":"https://www.khanacademy.org/favicon.ico"
+    },
+    {
+       "title":"Dashboard",
+       "favicon":"https://www.wabash.edu/images2/technology/canvas.png"
+    },
+    {
+      "title":"Amplify Curriculum",
+      "favicon":"https://assets.clever.com/resource-icons/apps/525d65532d5f07260c000d2f/icon_70c2b09.png"
+    },
+    {
+      "title":"Teach TCI",
+      "favicon":"https://assets.clever.com/resource-icons/apps/591bb21791eb9b00018d6bf1/icon_4af7e64.png"
+    }
+ ]
